@@ -1,0 +1,10 @@
+openai
+whisper
+torch
+numpy
+sounddevice
+scipy
+soundfile
+webrtcvad
+edge-tts
+python-dotenv
